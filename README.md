@@ -4,12 +4,14 @@ Implementing probability distributions in python and creating a visual represent
 This program takes input from the user in order to implement specific distribution and gives the probability of the asked value
 
 
-![image](https://user-images.githubusercontent.com/97380105/212545111-4345a44f-dee2-4fe0-81a3-dc82d068ceee.png)
+<img width="421" alt="Untitled" src="https://user-images.githubusercontent.com/97380105/212546128-33963d41-8fea-4a4f-b3bf-b34b88c1e140.png">
 
 
 These are the visual representations of the distribution
 
-![image](https://user-images.githubusercontent.com/97380105/212545264-cc1b1c09-fcd0-4a9c-ab4f-6354bbdd0b08.png)
+
+<img width="239" alt="Screenshot 2023-01-15 194209" src="https://user-images.githubusercontent.com/97380105/212545828-c203901e-e57f-4788-9fdb-a805085836bf.png">
 
 
-![image](https://user-images.githubusercontent.com/97380105/212545291-d5428b55-9d64-41f8-8b87-bad72ca19e3d.png)
+<img width="241" alt="Untitled" src="https://user-images.githubusercontent.com/97380105/212545998-e5702d36-d9a0-43d5-9c66-0ce5b37a3ebe.png">
+
